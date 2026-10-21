@@ -8,7 +8,7 @@ package studentprofile;
  *Program : StudentProfile
  *Description : To display name, student ID and programme. 
  *Date : 14 October 2026
- *Modified date : None
+ *Modified date : 21 October 2026
  *Version : 1.0
  */
 public class StudentProfile {
@@ -16,6 +16,8 @@ public class StudentProfile {
         System.out.println("Name: Ain Nur Asma' Binti Azmi"); 
         System.out.println("Student ID: S87403"); 
         System.out.println("Programme: Bachelor of Computer Science (Cloud Computing Security)"); 
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
     
 }
